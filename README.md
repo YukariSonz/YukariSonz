@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YukariSonz
 - 👀 I’m interested in Federated Learning
-- 🌱 I’m currently learning how to be a human
-- 📫 How to reach me 
+- 🌱 I’m currently looking for full-time research position starting in late 2025 (e.g. Research Scientist; Post-doc; Faculty) 
+- 📫 How to reach me: 
 
 <!---
 YukariSonz/YukariSonz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
